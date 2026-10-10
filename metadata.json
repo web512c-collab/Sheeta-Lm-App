@@ -1,0 +1,6 @@
+{
+  "name": "Sheeta LM - On-Device Android AI Engine",
+  "description": "Production-grade on-device Android LLM server with native tool calling interceptor, embedded Ktor OpenAI API gateway, and real-time Jetpack Compose telemetry dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
